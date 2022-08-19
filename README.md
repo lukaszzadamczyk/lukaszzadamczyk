@@ -9,7 +9,7 @@ I'm Lukasz from Poland, and I'm currently learning and looking for a job as a Ju
 * 🛢 MySQL | MongoDB
 * 🔧 Git | GitHub
 
-### 🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 
 * 🔭 I’m currently working on my own projects and a project in a team. 
 * 🌱 I’m currently learning JavaScript, TypeScript, React, Express, Nest, MySQL. 
