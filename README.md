@@ -7,7 +7,7 @@ I'm Lukasz from Poland, and I'm currently learning and looking for a job as a Ju
 * 🖥 JavaScript | TypeScript | React | Node | Express
 * 🌐 HTML | CSS | SASS | MaterialUI
 * 🛢 MySQL | MongoDB
-* 🔧 Git | GitHub
+* 🔧 Git | GitHub | VSCode | Webstorm
 
 ### 🙋‍♂️ About Me
 
