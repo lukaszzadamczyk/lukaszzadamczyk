@@ -27,5 +27,3 @@ I'm Lukasz from Poland, and I'm currently learning and looking for a job as a Ju
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaszzadamczyk)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lukaszzadamczyk&show_icons=true) 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lukaszzadamczyk)
