@@ -1,15 +1,15 @@
-### Hi there 👋, my name is Lukasz Adamczyk
+## Hi there 👋, my name is Lukasz Adamczyk
 
 I'm Lukasz from Poland, and I'm currently learning and looking for a job as a Junior Developer. I really enjoy learning languages and frameworks like JavaScript, TypeScript, React and Express.
 
-## 🛠 Skills and Experience
+### 🛠 Skills and Experience
 
 * 🖥 JavaScript | TypeScript | React | Node | Express
 * 🌐 HTML | CSS | SASS | MaterialUI
 * 🛢 MySQL | MongoDB
 * 🔧 Git | GitHub
 
-## 🙋‍♂️ About Me
+### 🙋‍♂️ About Me
 
 * 🔭 I’m currently working on my own projects and a project in a team. 
 * 🌱 I’m currently learning JavaScript, TypeScript, React, Express, Nest, MySQL. 
