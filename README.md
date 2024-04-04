@@ -1,20 +1,20 @@
 ## Hi there 👋, my name is Lukasz Adamczyk
 
-I'm Lukasz from Poland, and I'm currently learning and looking for a job as a Software Developer. I really enjoy learning languages and frameworks like JavaScript, TypeScript, React and Express.
+I'm Lukasz from Poland, and I'm currently learning and looking for a job as a Web Developer. I really enjoy learning languages and frameworks like JavaScript, TypeScript, React and Express.
 
 ![Profile views](https://gpvc.arturio.dev/lukaszzadamczyk)  
 
 ### 🛠 Skills and Experience
 
 * 🖥 JavaScript | TypeScript | React | Node | Express | Jest
-* 🌐 HTML | CSS | SASS | MaterialUI
+* 🌐 HTML | CSS | MaterialUI
 * 🛢 MySQL | MongoDB
 * 🔧 Git | GitHub | VSCode | Webstorm | Insomnia
 
 ### 🙋‍♂️ About Me
 
 * 🔭 I’m currently working on my own projects and a project with a team. 
-* 🌱 I’m currently learning JavaScript, TypeScript, React, Express, Nest, MySQL. 
+* 🌱 I’m currently learning JavaScript, TypeScript, React, Express, MySQL. 
 * 🤔 I’m looking for help with finding a job as a Junior Developer. 
 * 📫 How to reach me: lukaszz.adamczyk@gmail.com 
 * ⚡ Fun fact: I am a graduate of physical education. 
