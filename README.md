@@ -9,7 +9,7 @@ I'm Lukasz from Poland, and I'm currently learning and looking for a job as a We
 * 🖥 JavaScript | TypeScript | React | Node | Express | Jest
 * 🌐 HTML | CSS | MaterialUI
 * 🛢 MySQL | MongoDB
-* 🔧 Git | GitHub | VSCode | Webstorm | Insomnia
+* 🔧 Git | GitHub | VSCode | Webstorm | Insomnia | Figma
 
 ### 🙋‍♂️ About Me
 
